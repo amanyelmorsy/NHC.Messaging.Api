@@ -17,19 +17,19 @@ sql server database
 
 ## Installation
 
-To install all of the template files, run the following script from the root of your project's directory:
-
+To install NHC Messaging you need to:
+- Download and open the project into your visual studio.
+- Run database script from file
+```
+https://github.com/amanyelmorsy/NHC.Messaging.Api/blob/master/NHCMessagingDatabaseStructure.sql
+```
+- Create Hangfire database with name "NHCHangfire" 
+- Download and run the UI from the below link
 ```
 https://github.com/amanyelmorsy/NHC.Messaging.UI
 ```
 
 
 ## Configuration
+Please check appsetting file for project configuration
 
-If the software is configurable, describe it in detail, either here or in other documentation to which you link.
-
-## Usage
-
-Show users how to use the software.
-Be specific.
-Use appropriate formatting when showing code snippets.
