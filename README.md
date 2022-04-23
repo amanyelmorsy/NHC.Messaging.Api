@@ -2,18 +2,18 @@
 
 # NHC Messaging
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+**Description**:  NHC Messaging enable you to create and send sms message to list of customers via Twillio
+and list and view customer messages with its status.
 
 
 
 ## Dependencies
 
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
+Twillio
+Hangfire
+.net core
+sql server database
+.
 
 ## Installation
 
