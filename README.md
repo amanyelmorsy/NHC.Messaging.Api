@@ -20,7 +20,7 @@ sql server database
 To install all of the template files, run the following script from the root of your project's directory:
 
 ```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/main/open-source-template.sh)"
+https://github.com/amanyelmorsy/NHC.Messaging.UI
 ```
 
 
